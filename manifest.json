@@ -1,0 +1,10 @@
+{
+  "name": "Putting Performance",
+  "short_name": "Putting",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#07110D",
+  "theme_color": "#07110D",
+  "description": "Putting practice and performance tracker",
+  "icons": []
+}
